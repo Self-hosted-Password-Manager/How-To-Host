@@ -5,4 +5,4 @@ This repository will tell you have to host this password manager.
 
 There are 2 apps you need for thiS.
 
-VS Code you can download <here> (https://code.visualstudio.com/download)
+VS Code you can download <here>(https://code.visualstudio.com/download)
